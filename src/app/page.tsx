@@ -29,7 +29,7 @@ export default function Home() {
       <section>
         <h2>Interested in partnership?</h2>
         <p>
-          Contact us at <a href="mailto:contact@cardlessbank.io">contact@cardlessbank.io</a>
+          Contact us at <a href="mailto:contact@cardlessbank.online">contact@cardlessbank.online</a>
         </p>
       </section>
     </main>
